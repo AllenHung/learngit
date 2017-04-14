@@ -1,0 +1,10 @@
+git init 
+git add 添加文件
+git commit -m "版本" 提交文件
+git log 查看修改日志 git log --pretty=oneline
+git reset --hard HEAD~1 版本回退
+git checkout -- file可以丢弃工作区的修改
+ssh-keygen -t rsa -C "youremail@example.com" 生成密钥 或者：ssh-keygen -trsa
+
+
+
